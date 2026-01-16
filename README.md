@@ -21,4 +21,4 @@ npm run dev
 npm run build
 
 # Просмотр собранной версии
-npm run preview
+npm run deploy
